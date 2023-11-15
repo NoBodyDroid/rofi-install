@@ -2,4 +2,4 @@
     <h1>Simple Rofi installation script with my theme and plugins that I use</h1>
 </div>
 
-<image align="center" width="450px" src="./rofi.png"/>
+<image align="righ" width="450px" src="./rofi.png"/>
