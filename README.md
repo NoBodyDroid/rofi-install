@@ -14,6 +14,6 @@ rofi -show {mode}
 and to run two modes at the same time type:
 rofi -display-combi "" -combi-modi window,drun -show combi -show-icons
 the display-combi "{Change the name here}" will hide the name of the modi that is running or you can replace it with any name that you want 
-**for more info visit [Rofi](https://wiki.archlinux.org/title/rofi)
+for more info visit **[Rofi](https://wiki.archlinux.org/title/rofi)**
 
 ---
