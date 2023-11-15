@@ -7,19 +7,6 @@
 
 ---
 
-
-<div align="center">
-<div align="center">
-    <h1>Simple Rofi installation script with my themes and plugins</h1>
-</div>
-<div align="center">
-    <image align="righ" width="720px" height="480px" src="./assets/rofi.png"/>
-</div>
-
-
----
-
-
 <div align="center">
     
 Note!!!!!!
@@ -40,5 +27,4 @@ for more info visit **[Rofi](https://wiki.archlinux.org/title/rofi)**
 
 <div>
 
-    
 ---
